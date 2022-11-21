@@ -15,7 +15,7 @@ This dataset is available to the public, but also policy makers, researchers, an
 The NC Public Health data demonstrates valuable data where a vizualization may be used.
 
 The following vizualization shows the percent of uninsured individuals in North Carolina by county, in 2015.
-https://datawrapper.dwcdn.net/xF1uf/1/
+https://datawrapper.dwcdn.net/xF1uf/2/
 
 This visualization takes the data a step forward and analyzes two variables: "Uninsured" and "Could not see a doctor due to cost."
 https://datawrapper.dwcdn.net/fyOmT/2/
