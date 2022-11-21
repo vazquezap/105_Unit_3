@@ -1,4 +1,4 @@
-# Unit_3_Data_Repository
+# NC Health Data
 This repository contians instructions and resources for creating and using North Carolina health data.
 
 This repository consists of an instructional Python notebook and the original .csv file (CountyHealthData_2014-2015.csv) for retrieval.
