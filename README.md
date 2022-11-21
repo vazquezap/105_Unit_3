@@ -12,7 +12,7 @@ This dataset is available to the public, but also policy makers, researchers, an
 
 
 # Vizualizing NC Data
-The NC Public Health data demonstrates valuable data where a vizualization may be used.
+The NC Health data demonstrates valuable data where a vizualization may be used.
 
 The following vizualization shows the percent of uninsured individuals in North Carolina by county, in 2015.
 https://datawrapper.dwcdn.net/xF1uf/2/
