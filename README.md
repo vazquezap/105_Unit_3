@@ -19,7 +19,7 @@ Through analysis of this data, individuals may generate a deeper understanding o
 
 ***NC_subset_health contains data which may be valuable for vizualization.*** 
 
-## Potential Vizualizations: Maps
+## Potential Visualizations: Maps
 The following vizualization shows the percent of uninsured individuals in North Carolina, by county, in 2015.
 
 **View the interactive version of this visualization:**
