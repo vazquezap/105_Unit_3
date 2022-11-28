@@ -27,5 +27,12 @@ https://datawrapper.dwcdn.net/xF1uf/2/
 
 ![nc_map_uninsured](https://user-images.githubusercontent.com/118190183/204169252-420bcaf7-9e23-49ba-96de-a756765122d4.png)
 
+## Potential Visualizations: Bar Graphs
+The following vizualization shows the top ten counties with the highest healthcare costs in North Carolina. The bar graph is formatted to show cost in descending order.
+[Top 10 Most Costly HC Counties in NC.pdf](https://github.com/vazquezap/Unit_3_Data_Repository_AV/files/10099988/Top.10.Most.Costly.HC.Counties.in.NC.pdf)
+
+
+
+
 ### Tip For Data Vizualization
 A simple way to produce data vizualizations using **NC_subset.csv** or **NC_subset_health.csv** is to change the numberical values from decimals to percentages.
