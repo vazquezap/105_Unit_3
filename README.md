@@ -15,12 +15,12 @@ Through analysis of this data, individuals may generate a deeper understanding o
 **Potential outcomes** rely on the availability of this dataset to the public, policy makers, researchers, and educators who may be intersted in reviewing this data as means to potentially address issues relating to healthcare costs. Analyzing trends in this dataset is an important step to mitigating social issues relating to healthcare. 
 
 
-# Vizualizing NC Data
+# Visualizing NC Data
 
-***NC_subset_health contains data which may be valuable for vizualization.*** 
+***NC_subset_health contains data which may be valuable for visualization.*** 
 
 ## Potential Visualizations: Maps
-The following vizualization shows the percent of uninsured individuals in North Carolina, by county, in 2015.
+The following visualization shows the percent of uninsured individuals in North Carolina, by county, in 2015.
 
 **View the interactive version of this visualization:**
 https://datawrapper.dwcdn.net/xF1uf/2/
@@ -28,10 +28,10 @@ https://datawrapper.dwcdn.net/xF1uf/2/
 ![nc_map_uninsured](https://user-images.githubusercontent.com/118190183/204169252-420bcaf7-9e23-49ba-96de-a756765122d4.png)
 
 ## Potential Visualizations: Bar Graphs
-The following vizualization shows the top ten counties with the highest healthcare costs in North Carolina. The bar graph is formatted to show cost in descending order.
+The following visualization shows the top ten counties with the highest healthcare costs in North Carolina. The bar graph is formatted to show cost in descending order.
 
 <img width="960" alt="Captura de pantalla_20221127_093558" src="https://user-images.githubusercontent.com/118190183/204179496-42adb743-d860-4736-b495-2d64156f874c.png">
 
 
-#### Tip For Data Vizualization
+#### Tip For Data Visualization
 A simple way to produce data vizualizations using **NC_subset.csv** or **NC_subset_health.csv** is to change the numberical values (Uninsured, Unemployment, etc.) from decimals to percentages.
