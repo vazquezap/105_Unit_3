@@ -7,12 +7,12 @@ The repository contains an instructional Python notebook **(NC_health_data.ipynb
 The original dataset in this repository **(CountyHealthData_2014-2015.csv)** has been retreived from Professor Gotzler's English 105 course through the University of North Carolina at Chapel Hill.
 
 # Why North Carolina? 
-This repository specifically focuses on data from North Carolina. The **purpose** of looking at the data from North Carolina is to find a correlation, if any, among different variables relating to healthcare costs (i.e. uemployment, uninsured individuals, median household income). Although each variable may potentiually have a relationship to healthcare costs, this does not mean that there *must* be some type of correlation. For instance, unemployment rates and median household income for each county might not relate to each other, but it is important to consider, which is why these variables are included in the dataset. 
+This repository specifically focuses on data from North Carolina. The **purpose** of looking at the data from North Carolina is to find a correlation, if any, among different variables relating to healthcare costs (i.e. uemployment, uninsured individuals, median household income). Although each variable may potentially have a relationship to healthcare costs, this does not mean that there *must* be some type of correlation. For instance, unemployment rates and median household income for each county might not relate to each other, but the variables are important to consider as a whole, which is why they are included in the dataset. 
 
 # What Can this Data Show?
 Through analysis of this data, individuals may generate a deeper understanding of issues relating to healthcare costs. Categorical variables such as unemployment, uninsured children and adults, and median household income are useful components in understadning correlations within the dataset.
 
-This dataset is available to the public, but also policy makers, researchers, and educators who may be intersted in reviewing this data as means to potentially address issues relating to healthcare costs.
+**Potential outcomes** rely on the availability of this dataset to the public, policy makers, researchers, and educators who may be intersted in reviewing this data as means to potentially address issues relating to healthcare costs. Analyzing trends in this dataset is an important step to mitigating social issues relating to healthcare. 
 
 
 # Vizualizing NC Data
