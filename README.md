@@ -26,3 +26,6 @@ The following vizualization shows the percent of uninsured individuals in North 
 https://datawrapper.dwcdn.net/xF1uf/2/
 
 ![nc_map_uninsured](https://user-images.githubusercontent.com/118190183/204169252-420bcaf7-9e23-49ba-96de-a756765122d4.png)
+
+### Tip For Data Vizualization
+A simple way to produce data vizualizations using **NC_subset.csv** or **NC_subset_health.csv** is to change the numberical values from decimals to percentages.
